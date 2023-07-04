@@ -5,6 +5,10 @@ This project is a part of the [full stack roadmap](https://roadmap.sh/full-stack
 
 The project idea is to implement interactivity using javascript on a simple to do list app (responsive) using HTML, CSS, Javascript, Typescript, Tailwind, and Webpack.
 
+# References
+* [full stack roadmap](https://roadmap.sh/full-stack)
+* [Uno To-do app figma design](https://www.figma.com/community/file/1110780207444745729)
+
 # Checkpoint (quoted from [full stack roadmap](https://roadmap.sh/full-stack))
 
 At this point you should be able to add interactivity to your web pages using JavaScript. You should make sure that you have learnt the following:
