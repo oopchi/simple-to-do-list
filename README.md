@@ -3,7 +3,7 @@ This project is created and maintained by [Calvin Alfredo](https://blog.oopchi.m
 
 This project is a part of the [full stack roadmap](https://roadmap.sh/full-stack).
 
-The project idea is to implement interactivity using javascript on a simple to do list app created using HTML and CSS (responsive).
+The project idea is to implement interactivity using javascript on a simple to do list app (responsive) using HTML, CSS, Javascript, Typescript, Tailwind, and Webpack.
 
 # Checkpoint (quoted from [full stack roadmap](https://roadmap.sh/full-stack))
 
